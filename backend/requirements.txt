@@ -1,0 +1,3 @@
+Flask
+flask-cors
+pandaspip install -r requirements.txt
